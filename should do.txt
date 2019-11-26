@@ -1,0 +1,5 @@
+user table is related to project table because the admin user add and delete the project that is in the project table
+and I should have the the user type in to the session that I can add only not other one
+
+////________________________
+adminView page is not requirad
